@@ -42,8 +42,8 @@ Para visualizar o dashboard interativo em sua máquina, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
-    cd [NOME_DO_DIRETORIO]
+    git clone "https://github.com/RodrigoMaia03/Data_Analyze_Gocase_February_2025.git"
+    cd Data_Analyze_Gocase_February_2025
     ```
 
 2.  **Crie e ative um ambiente virtual:**
@@ -59,13 +59,19 @@ Para visualizar o dashboard interativo em sua máquina, siga os passos abaixo:
     ```
 
 3.  **Instale as dependências:**
-    (Certifique-se de que o arquivo `requirements.txt` está no diretório)
     ```bash
     pip install -r requirements.txt
     ```
 
 4.  **Estrutura de Pastas:**
-    Certifique-se de que os arquivos de dados (`.xlsx`) estão dentro de uma subpasta chamada `data`.
+    ```bash
+    ├── data/
+    │   ├── 📄 brazil_states.geojson
+    │   ├── 📊 Business Case Dados - Itens + Supply.xlsx
+    │   └── 📊 Case Dados - Pedidos.xlsx
+    ├── 🐍 app.py
+    └── 📝 README.md
+    ```
 
 5.  **Execute a aplicação Streamlit:**
     No terminal, a partir do diretório raiz do projeto, execute:
@@ -89,7 +95,7 @@ Para visualizar o dashboard interativo em sua máquina, siga os passos abaixo:
 
 ## 5. Autor
 
-**[Seu Nome Completo]**
+**[Rodrigo da Silva Carvalho Maia]**
 
-- [Link para seu LinkedIn]
-- [Link para seu GitHub]
+- [https://www.linkedin.com/in/rodrigo-maia-2747861a3]
+- [https://github.com/RodrigoMaia03]
