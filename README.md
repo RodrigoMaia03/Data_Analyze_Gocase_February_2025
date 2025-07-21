@@ -26,6 +26,7 @@ O dashboard está dividido em seções que abordam as principais áreas do negó
 ### Análise de Logística & Entregas
 - **Performance Geográfica:** Mapa interativo do Brasil que permite visualizar diferentes KPIs por estado: **Tempo Médio de Entrega**, **Faturamento Total** e **Ticket Médio**.
 - **Funil Logístico:** Gráfico de barras empilhadas que decompõe o tempo total de entrega em **Tempo de Preparo** (interno) e **Tempo de Trânsito** (transportadora), identificando gargalos.
+- **Análise de Cancelamentos e Atrasos na Entrega:** Gráficos que medem as **Taxas de Cancelamento** com transportadoras parceiras, **Tempo Médio de Entrega** de cada empresa e ranking de Categorias com maior **Tempo Médio de Entrega** por transportadora.
 - **Performance de Transportadoras (SLA):** Gráfico que mede a taxa de descumprimento de prazo de cada transportadora, identificando os parceiros mais e menos confiáveis.
 
 ---
